@@ -1,4 +1,4 @@
-# DESENVOLVIMENTO DE PLATAFORMA DIDÁTICA ESCALÁVEL PARA CÉLULAS MECATRÔNICAS UTILIZANDO COMUNICAÇÃO SEM FIO
+# Desenvolvimento de plataforma didática escalável para células mecatrônicas utilizando comunicação sem fio
 
 Este repositório contém os códigos-fonte e vídeos de validação do kit didático desenvolvido no Trabalho de Conclusão de Curso, cujo objetivo é a implementação de uma planta didática modular e escalável baseada em uma esteira transportadora, com foco no ensino de automação, controle e comunicação industrial.
 
